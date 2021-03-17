@@ -89,7 +89,7 @@ ul {
     width: 325px;
     height: 375px;
     border-radius: 20px;
-    background: #fff url('/images/bg-pattern-card.svg') no-repeat;
+    background: #fff url('images/bg-pattern-card.svg') no-repeat;
 
     display: flex;
     flex-direction: column;
